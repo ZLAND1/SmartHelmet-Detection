@@ -1,0 +1,29 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# 推理结果
+src/result/
+result/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+*.swp
